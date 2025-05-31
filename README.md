@@ -16,17 +16,15 @@ as funcionalidades básicas, deixando espaço para ideias que surgirem.
 
 ## Tecnologias utilizadas
 
-- 
--
--
--
+- ⚙️ TypeScript
+- ⚙️ React
+- ⚙️ Tailwind CSS
 
 ## Funcionalidades
 
 - ✅ Layout responsivo
 - ✅ Navegação por seções
 - ✅ Scroll suave
-
 
 ## Como rodar o projeto
 
