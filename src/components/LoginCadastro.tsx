@@ -99,8 +99,8 @@ const LoginCadastro: React.FC<FecharModal> = ({loginCadastro}) => {
                         </form>
                     </div> ) : (
                         <div key="cadastro">
-                        <form onSubmit={cadastro(cadastrarUsuario)} noValidate>
-                            <div className="flex flex-col gap-4 w-[96%]">
+                        <form onSubmit={cadastro(cadastrarUsuario)} noValidate className="flex flex-col items-center justify-center">
+                            <div className="flex flex-col justify-center gap-4 w-[96%]">
                                     <input type="text" placeholder="Nome completo" className="p-2 sm:p-3 rounded border-2 border-gray-300"
                                         {...registerCadastro("nome",
                                         { required: "Digite seu nome completo" })}

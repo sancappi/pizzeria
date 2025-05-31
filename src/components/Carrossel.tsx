@@ -86,7 +86,7 @@ const Carrossel: React.FC = () => {
                                         </button>
                                     </div>
                               </div>
-                          )) : <p className="text-2xl sm:text-3xl">Ainda não há pizzas disponíveis.</p>}
+                          )) : <p className="text-2xl sm:text-3xl"></p>}
                 </div>
             </div>
             <div className="w-full text-center relative p-4 flex flex-col justify-center items-center">
