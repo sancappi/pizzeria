@@ -36,17 +36,19 @@ Para iniciar o projeto em modo de desenvolvimento:
 
 ```bash
 npm run dev
-
+```
 ### Ambiente de produção
 
 Para gerar os arquivos otimizados para produção:
 
 ```bash
 npm run build
+```
 
 Para visualizar o projeto em ambiente de produção local:
 
 ```bash
 npm run preview
+```
 
   
