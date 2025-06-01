@@ -1,4 +1,4 @@
-# Pizzaria
+# Pizzeria
 
 Este projeto é o front-end de um site de pizzaria. 
 Foi criado para homenagear a pizza (gosto muito 😅) e praticar as tecnologias que me dedico a estudar.
