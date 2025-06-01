@@ -28,25 +28,14 @@ as funcionalidades básicas, deixando espaço para ideias que surgirem.
 
 ## Como rodar o projeto
 
-### Ambiente de desenvolvimento
-
 Para iniciar o projeto em modo de desenvolvimento:
 
 ```bash
-npm run dev
+npm start
 ```
-### Ambiente de produção
-
 Para gerar os arquivos otimizados para produção:
 
 ```bash
-npm run build
+npm build
 ```
 
-Para visualizar o projeto em ambiente de produção local:
-
-```bash
-npm run preview
-```
-
-  
